@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\assignment\\blogMaster\\BE\\BlogMaster\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB41299E-7A5E-4E8A-AD5A-3459880B2D84}|BlogMaster.csproj|c:\\users\\dell\\desktop\\assignment\\blogmaster\\be\\blogmaster\\services\\blogsmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB41299E-7A5E-4E8A-AD5A-3459880B2D84}|BlogMaster.csproj|solutionrelative:services\\blogsmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB41299E-7A5E-4E8A-AD5A-3459880B2D84}|BlogMaster.csproj|c:\\users\\dell\\desktop\\assignment\\blogmaster\\be\\blogmaster\\blogs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB41299E-7A5E-4E8A-AD5A-3459880B2D84}|BlogMaster.csproj|solutionrelative:blogs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB41299E-7A5E-4E8A-AD5A-3459880B2D84}|BlogMaster.csproj|c:\\users\\dell\\desktop\\assignment\\blogmaster\\be\\blogmaster\\controllers\\blogmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB41299E-7A5E-4E8A-AD5A-3459880B2D84}|BlogMaster.csproj|solutionrelative:controllers\\blogmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB41299E-7A5E-4E8A-AD5A-3459880B2D84}|BlogMaster.csproj|c:\\users\\dell\\desktop\\assignment\\blogmaster\\be\\blogmaster\\model\\genericresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB41299E-7A5E-4E8A-AD5A-3459880B2D84}|BlogMaster.csproj|solutionrelative:model\\genericresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB41299E-7A5E-4E8A-AD5A-3459880B2D84}|BlogMaster.csproj|c:\\users\\dell\\desktop\\assignment\\blogmaster\\be\\blogmaster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB41299E-7A5E-4E8A-AD5A-3459880B2D84}|BlogMaster.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB41299E-7A5E-4E8A-AD5A-3459880B2D84}|BlogMaster.csproj|c:\\users\\dell\\desktop\\assignment\\blogmaster\\be\\blogmaster\\services\\iblogmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB41299E-7A5E-4E8A-AD5A-3459880B2D84}|BlogMaster.csproj|solutionrelative:services\\iblogmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Blogs.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\assignment\\blogMaster\\BE\\BlogMaster\\Blogs.json",
+              "RelativeDocumentMoniker": "Blogs.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\assignment\\blogMaster\\BE\\BlogMaster\\Blogs.json",
+              "RelativeToolTip": "Blogs.json",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T12:57:34.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\assignment\\blogMaster\\BE\\BlogMaster\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\assignment\\blogMaster\\BE\\BlogMaster\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:25:13.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBlogMaster.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\assignment\\blogMaster\\BE\\BlogMaster\\Services\\IBlogMaster.cs",
+              "RelativeDocumentMoniker": "Services\\IBlogMaster.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\assignment\\blogMaster\\BE\\BlogMaster\\Services\\IBlogMaster.cs",
+              "RelativeToolTip": "Services\\IBlogMaster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T11:33:01.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericResponse.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\assignment\\blogMaster\\BE\\BlogMaster\\Model\\GenericResponse.cs",
+              "RelativeDocumentMoniker": "Model\\GenericResponse.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\assignment\\blogMaster\\BE\\BlogMaster\\Model\\GenericResponse.cs",
+              "RelativeToolTip": "Model\\GenericResponse.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAvwBYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T11:30:28.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogsMaster.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\assignment\\blogMaster\\BE\\BlogMaster\\Services\\BlogsMaster.cs",
+              "RelativeDocumentMoniker": "Services\\BlogsMaster.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\assignment\\blogMaster\\BE\\BlogMaster\\Services\\BlogsMaster.cs",
+              "RelativeToolTip": "Services\\BlogsMaster.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAEwBkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T05:57:10.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogMasterController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\assignment\\blogMaster\\BE\\BlogMaster\\Controllers\\BlogMasterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BlogMasterController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\assignment\\blogMaster\\BE\\BlogMaster\\Controllers\\BlogMasterController.cs",
+              "RelativeToolTip": "Controllers\\BlogMasterController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA6wBgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T04:37:19.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
